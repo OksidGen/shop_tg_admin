@@ -1,0 +1,5 @@
+venv
+/admin_shop_wd/db.sqlite3
+
+.env
+.env.example
